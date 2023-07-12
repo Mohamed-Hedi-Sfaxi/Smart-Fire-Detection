@@ -1,4 +1,4 @@
-# Systeme de gestion d'incendie
+# Smart Fire Detection
 
 This projet is developed during Labs of the subject IoT Architecture </br>
 
@@ -8,7 +8,7 @@ Saidi Fadhila </br>
 Mili Haifa </br>
 Sfaxi Mouhamed Hedi </br>
 Under-graduated students, </br>
-Embadded system and IoT Bachelors </br>
+Embadded systems & IoT Bachelors </br>
 
 
 ## Under the supervision of:
@@ -21,25 +21,25 @@ University of Monastir Tunisia </br>
 
 ## Title of the project:
 
-Systéme de gestion d'incendie </br>
+Smart Fire Detection </br>
 
 ## Description:
 
-Notre système tend à rendre la maison plus sécurisée, </br>
-principalement lutter contre tout type de fuites et flammes </br>
-a l'intermédiaire d'un model de gestion d'incendie a trois </br>
-niveaux d'alerte. </br>
+Our system's goal is to make the house more secure, </br>
+by mainly fighting against all types of leaks and flames, </br>
+using a fire management model based on three </br>
+alert levels. </br>
 
 
 
-## Objectif:
+## Objective:
 
-Le développement d’un outil contre incendie qui </br> 
-se base sur l’IoT liée a une application mobile </br>
-qui permet de gérer l'outil incendie </br>
+The development of a fire-fighting tool </br> 
+that is based on IoT and linked to a mobile application </br>
+which allows the management of the system. </br>
 
 List of devices: </br>
-Arduino , ESP8622 , RaspBerry Pi 4 , Sensor MH , MQ7,  camera raspberry </br>
+Arduino , ESP8622 , RaspBerry Pi 4 , Sensor MH , MQ7,  Raspberry camera </br>
 
 ## Installation and prepartion instrcutions: 
 
